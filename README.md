@@ -12,6 +12,8 @@ Simply enter the principal amount you wish to invest, select the tenure of your 
 📊 Key Features:
 
 
+
+
 ✅ Real-Time Calculations: Get instant and precise results for your fixed deposit returns.
 
 ✅ Flexible Inputs: Easily adjust the principal amount, tenure, and interest rate to analyze different scenarios.
