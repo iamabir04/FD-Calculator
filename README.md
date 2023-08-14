@@ -1,6 +1,8 @@
 <h1 align="center">FD-Calculator_Mini-Project</h1>
+<br>
+<br>
 
-💰 Introducing Fixed Deposit Calculator - Your Reliable Financial Planning Companion! 💰
+## 💰 Introducing Fixed Deposit Calculator - Your Reliable Financial Planning Companion! 💰
 
 Welcome to the Fixed Deposit Calculator website, a powerful and user-friendly tool designed using HTML, CSS, and JavaScript to help you make informed financial decisions.
 
