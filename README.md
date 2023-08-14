@@ -3,14 +3,12 @@
 <br>
 
 ## 💰 Introducing Fixed Deposit Calculator - Your Reliable Financial Planning Companion! 💰
-<br>
 
 <p>Welcome to the Fixed Deposit Calculator website, a powerful and user-friendly tool designed using HTML, CSS, and JavaScript to help you make informed financial decisions.</p>
 <br>
 <br>
 
 ## 🔢 How It Works:
-<br>
 <ul>
   <li>Simply enter the principal amount you wish to invest</li>
   <li>Select the tenure of your fixed deposit</li>
@@ -21,7 +19,6 @@
 <br>
 
 ## 📊 Key Features:
-<br>
 ✅ <b>Real-Time Calculations:</b> Get instant and precise results for your fixed deposit returns.<br><br>
 ✅ <b>Flexible Inputs:</b> Easily adjust the principal amount, tenure, and interest rate to analyze different scenarios.<br><br>
 ✅ <b>Compound Interest:</b> Our advanced algorithm considers compound interest for more accurate projections.<br><br>
