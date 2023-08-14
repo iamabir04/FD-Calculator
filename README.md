@@ -36,15 +36,17 @@
 <br>
 <br>
 
-🔒 Your Financial Data Security Matters:
+## 🔒 Your Financial Data Security Matters:
 
-At Fixed Deposit Calculator, we understand the importance of data privacy. Rest assured that all calculations are done locally on your device, and no sensitive financial information is stored or shared. Your financial data remains safe and confidential.
+<p>At Fixed Deposit Calculator, we understand the importance of data privacy. Rest assured that all calculations are done locally on your device, and no sensitive financial information is stored or shared. Your financial data remains safe and confidential.</p>
+<br>
+<br>
 
+## 🚀 Unlock Your Financial Potential:
 
-🚀 Unlock Your Financial Potential:
-
-Take advantage of our Fixed Deposit Calculator to explore the potential growth of your investments. It's a valuable tool for financial planning, enabling you to make the most of your hard-earned money.
-
+<p>Take advantage of our Fixed Deposit Calculator to explore the potential growth of your investments. It's a valuable tool for financial planning, enabling you to make the most of your hard-earned money.</p>
+<br>
+<br>
 
 ## Screenshot
 
