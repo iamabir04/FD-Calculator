@@ -1,4 +1,4 @@
-# FD-Calculator_Mini-Project
+<h1 align="center">FD-Calculator_Mini-Project</h1>
 
 💰 Introducing Fixed Deposit Calculator - Your Reliable Financial Planning Companion! 💰
 
