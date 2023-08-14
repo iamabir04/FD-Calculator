@@ -22,18 +22,19 @@
 
 ## 📊 Key Features:
 <br>
-✅ Real-Time Calculations: Get instant and precise results for your fixed deposit returns.<br>
-✅ Flexible Inputs: Easily adjust the principal amount, tenure, and interest rate to analyze different scenarios.<br>
-✅ Compound Interest: Our advanced algorithm considers compound interest for more accurate projections.<br>
-✅ Clear Visualization: The user-friendly interface presents data in a clear and visually appealing manner.<br>
+✅ <b>Real-Time Calculations:</b> Get instant and precise results for your fixed deposit returns.<br><br>
+✅ <b>Flexible Inputs:</b> Easily adjust the principal amount, tenure, and interest rate to analyze different scenarios.<br><br>
+✅ <b>Compound Interest:</b> Our advanced algorithm considers compound interest for more accurate projections.<br><br>
+✅ <b>Clear Visualization:</b> The user-friendly interface presents data in a clear and visually appealing manner.<br><br>
 <br>
 <br>
 
 
-💡 Why Choose Fixed Deposit Calculator?
+## 💡 Why Choose Fixed Deposit Calculator?
 
-Whether you're planning for short-term goals or securing your future with long-term investments, our Fixed Deposit Calculator empowers you to make well-informed financial decisions. It aids in determining the best tenure and interest rate for maximizing your returns.
-
+<p>Whether you're planning for short-term goals or securing your future with long-term investments, our Fixed Deposit Calculator empowers you to make well-informed financial decisions. It aids in determining the best tenure and interest rate for maximizing your returns.</p>
+<br>
+<br>
 
 🔒 Your Financial Data Security Matters:
 
