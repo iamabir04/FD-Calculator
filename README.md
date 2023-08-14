@@ -12,10 +12,11 @@
 ## 🔢 How It Works:
 <br>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>Simply enter the principal amount you wish to invest, select the tenure of your fixed deposit, and specify the annual interest rate. Our intelligent JavaScript algorithm will instantly calculate your returns, taking into account compound interest to provide you with an accurate and detailed projection.
+  <li>Simply enter the principal amount you wish to invest</li>
+  <li>Select the tenure of your fixed deposit</li>
+  <li>Specify the annual interest rate</li>
+</ul>
+<p>Our intelligent JavaScript algorithm will instantly calculate your returns, taking into account compound interest to provide you with an accurate and detailed projection.</p>
 
 
 📊 Key Features:
