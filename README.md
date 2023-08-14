@@ -17,21 +17,17 @@
   <li>Specify the annual interest rate</li>
 </ul>
 <p>Our intelligent JavaScript algorithm will instantly calculate your returns, taking into account compound interest to provide you with an accurate and detailed projection.</p>
+<br>
+<br>
 
-
-📊 Key Features:
-
-
-
-
-✅ Real-Time Calculations: Get instant and precise results for your fixed deposit returns.
-
-✅ Flexible Inputs: Easily adjust the principal amount, tenure, and interest rate to analyze different scenarios.
-
-✅ Compound Interest: Our advanced algorithm considers compound interest for more accurate projections.
-
-✅ Clear Visualization: The user-friendly interface presents data in a clear and visually appealing manner.
-
+## 📊 Key Features:
+<br>
+✅ Real-Time Calculations: Get instant and precise results for your fixed deposit returns.<br>
+✅ Flexible Inputs: Easily adjust the principal amount, tenure, and interest rate to analyze different scenarios.<br>
+✅ Compound Interest: Our advanced algorithm considers compound interest for more accurate projections.<br>
+✅ Clear Visualization: The user-friendly interface presents data in a clear and visually appealing manner.<br>
+<br>
+<br>
 
 
 💡 Why Choose Fixed Deposit Calculator?
